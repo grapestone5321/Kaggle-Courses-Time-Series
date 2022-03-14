@@ -4,9 +4,9 @@ Kaggle-Courses-Time-Series
 
 -------
 
-1
-Linear Regression With Time Series
+### 1 Linear Regression With Time Series
 Use two features unique to time series: lags and time steps.
+
 2
 Trend
 Model long-term changes with moving averages and the time dummy.
