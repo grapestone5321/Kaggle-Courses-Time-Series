@@ -13,9 +13,9 @@ Model long-term changes with moving averages and the time dummy.
 ### 3 Seasonality
 Create indicators and Fourier features to capture periodic change.
 
-4
-Time Series as Features
+### 4 Time Series as Features
 Predict the future from the past with a lag embedding.
+
 5
 Hybrid Models
 Combine the strengths of two forecasters with this powerful technique.
