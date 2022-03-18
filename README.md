@@ -16,9 +16,9 @@ Create indicators and Fourier features to capture periodic change.
 ### 4 Time Series as Features
 Predict the future from the past with a lag embedding.
 
-5
-Hybrid Models
+### 5 Hybrid Models
 Combine the strengths of two forecasters with this powerful technique.
+
 6
 Forecasting With Machine Learning
 Apply ML to any forecasting task with these four strategies.
