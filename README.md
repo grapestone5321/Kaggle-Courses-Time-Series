@@ -19,8 +19,7 @@ Predict the future from the past with a lag embedding.
 ### 5 Hybrid Models
 Combine the strengths of two forecasters with this powerful technique.
 
-6
-Forecasting With Machine Learning
+### 6 Forecasting With Machine Learning
 Apply ML to any forecasting task with these four strategies.
 
 
